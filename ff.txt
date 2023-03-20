@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-fff
-ffff
-=======
 fffff
 fff
->>>>>>> 17774e5 (first new_b)
